@@ -14,7 +14,7 @@ public class Palindrome{
             Console.WriteLine("NO");
         }
 
-    }
+        }
         public static string reverseString(string s)
         {
             char[] w = s.ToCharArray();
