@@ -22,6 +22,6 @@ public class Product
             product = product * b;
         }
         Console.WriteLine(product);
-        
+
     }
 }
